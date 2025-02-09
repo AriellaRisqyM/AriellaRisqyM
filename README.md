@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # AriellaRisqyM
 
 ## 📊 GitHub Stats
@@ -10,10 +8,10 @@
 
 ## 🌐 Sosial Media
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF007F.svg?logo=Instagram&logoColor=white)](https://instagram.com/username_instagram_anda)
-[![Facebook](https://img.shields.io/badge/Facebook-%2300FFFF.svg?logo=Facebook&logoColor=white)](https://facebook.com/username_facebook_anda)
-[![TikTok](https://img.shields.io/badge/TikTok-%23FF00FF.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@username_tiktok_anda)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF00.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/username_linkedin_anda)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ariella_risqy?igsh=MXdoYmNuODJrODA3dg==)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BPCAXKwq1/?mibextid=qi2Omg)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@ariella_risqy?_t=ZS-8tlHkIDklDG&_r=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariella-risqy-maulana?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Tentang Saya
 
