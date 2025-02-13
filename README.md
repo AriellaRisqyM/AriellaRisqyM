@@ -19,7 +19,7 @@ Saya adalah seorang jawa.
 
 ## Proyek Terbaru
 
-- [Nama Proyek 1](link)
+- CV(https://cv-ariel-github-io.vercel.app/)
 - [Nama Proyek 2](link)
 <!--
 **AriellaRisqyM/AriellaRisqyM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
