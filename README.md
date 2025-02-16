@@ -27,7 +27,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AriellaRisqyM/AriellaRisqyM/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/AriellaRisqyM/AriellaRisqyM/output/snake.svg)
 
 ###
 
