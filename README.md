@@ -6,6 +6,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriellaRisqyM&layout=compact&theme=radical)
 
+# My Stats
+
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-480-blue)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-36%20days-green)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-36%20days-brightgreen)
+
 ## 🌐 Sosial Media
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ariella_risqy?igsh=MXdoYmNuODJrODA3dg==)
