@@ -2,7 +2,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-<div style="width: 640;height: 1650;background-color: beige;">
+<div align="center" style="width: 640;height: 1650;background-color: beige;">
     <a href="https://open.spotify.com/user/89ekg48dirbxpc28akgm246un">
       <img style="width: 215px;height: 177px;float: left;" class="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=89ekg48dirbxpc28akgm246un&count=5&unique=false" alt="Spotify recently played"  />
       <img style="width: 419px;height: 177px;" class="github-stats1"" src="https://streak-stats.demolab.com?user=AriellaRisqyM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  alt="streak graph"  />
