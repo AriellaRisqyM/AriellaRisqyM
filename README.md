@@ -7,15 +7,13 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AriellaRisqyM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![AriellaRisqyM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AriellaRisqyM&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriellaRisqyM&layout=compact&theme=radical)
 </div>
 
 ###
 
 ## 📊 GitHub Stats
-
-![AriellaRisqyM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AriellaRisqyM&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriellaRisqyM&layout=compact&theme=radical)
 
 
 ## 🌐 Sosial Media
