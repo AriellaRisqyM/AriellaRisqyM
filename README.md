@@ -14,6 +14,7 @@
 ## 📊 GitHub Stats
    ![AriellaRisqyM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AriellaRisqyM&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriellaRisqyM&layout=compact&theme=radical)
+  <img src="https://raw.githubusercontent.com/AriellaRisqyM/AriellaRisqyM/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Sosial Media
 
