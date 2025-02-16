@@ -2,28 +2,32 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AriellaRisqyM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-## 📊 GitHub Stats
 <div>
-  <a href="https://open.spotify.com/user/89ekg48dirbxpc28akgm246un">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=89ekg48dirbxpc28akgm246un&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+    <style>
+        .github-stats1{
+            height: 330px;
+        }
+        .github-stats{
+            height: 330px; /* Sesuaikan tinggi sesuai kebutuhan */
+        }
+    </style>
+    <a href="https://open.spotify.com/user/89ekg48dirbxpc28akgm246un">
+      <img class="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=89ekg48dirbxpc28akgm246un&count=5&unique=false" alt="Spotify recently played"  />
+      <img class="github-stats1" src="https://streak-stats.demolab.com?user=AriellaRisqyM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    </a>
+</div><br>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AriellaRisqyM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AriellaRisqyM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div>
+    <style>
+        .github-stats{
+            height: 330px; /* Sesuaikan tinggi sesuai kebutuhan */
+        }
+    </style>
+    <img class="github-stats1" src="https://github-readme-stats.vercel.app/api?username=AriellaRisqyM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    <img class="github-stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=AriellaRisqyM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="330" alt="languages graph"  />
 </div>
+## 📊 GitHub Stats
+
 
 
 
