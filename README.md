@@ -1,4 +1,15 @@
 # AriellaRisqyM
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AriellaRisqyM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 ## 📊 GitHub Stats
 
@@ -22,17 +33,7 @@ Saya adalah seorang jawa.
 
 - CV(https://cv-ariel-github-io.vercel.app/)
 - [Nama Proyek 2](link)
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AriellaRisqyM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 <!--
 **AriellaRisqyM/AriellaRisqyM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
