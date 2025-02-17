@@ -12,15 +12,6 @@
     <div style="width: 640px;height: 233px;padding-top: 1rem;background-color: 151515;background-image: url('https://wallpaperaccess.com/full/8673852.jpg');background-size: cover;background-position: center;background-repeat: no-repeat;height: 100vh;margin: 0;padding: 0;backdrop-filter: blur(40px); ">
     </div>
 </div><br>
-  
-  
-  
-  
-
-
-
-## 🌐 Sosial Media
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ariella_risqy?igsh=MXdoYmNuODJrODA3dg==)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BPCAXKwq1/?mibextid=qi2Omg)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@ariella_risqy?_t=ZS-8tlHkIDklDG&_r=1)
