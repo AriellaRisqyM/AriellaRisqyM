@@ -6,7 +6,7 @@
     <a href="https://open.spotify.com/user/89ekg48dirbxpc28akgm246un">
       <img style="width: 215px;height: 177px;float: left;" class="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=89ekg48dirbxpc28akgm246un&count=5&unique=false" alt="Spotify recently played"  />
     </a>
-    <img style="width: 419px;height: 177px;" class="github-stats1"" src="https://streak-stats.demolab.com?user=AriellaRisqyM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  alt="streak graph"  />
+    <img style="width: 419px;height: 177px;" class="github-stats1" src="https://streak-stats.demolab.com?user=AriellaRisqyM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  alt="streak graph"/>
     <img style="width: 317px;height: 140px;" class="github-stats" src="https://github-readme-stats.vercel.app/api?username=AriellaRisqyM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
     <img style="width: 317px;height: 140px;" class="github-stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=AriellaRisqyM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
     <div style="width: 640px;height: 233px;padding-top: 1rem;background-color: 151515;background-image: url('https://wallpaperaccess.com/full/8673852.jpg');background-size: cover;background-position: center;background-repeat: no-repeat;height: 100vh;margin: 0;padding: 0;backdrop-filter: blur(40px); ">
