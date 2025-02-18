@@ -49,7 +49,7 @@
 
 ## Tentang Saya
 
-Saya adalah seorang jawa.
+Saya adalah mahasiswa S1 Teknik Informatika dari Universitas Dian Nuswantoro (2022-sekarang). saya tertarik di bidang Pengembangan Web terutama FrontEnd dan Design.
 
 ## Proyek Terbaru
 
