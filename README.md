@@ -1,6 +1,15 @@
 # AriellaRisqyM
 ###
 
+## Tentang Saya
+
+Saya adalah mahasiswa S1 Teknik Informatika dari Universitas Dian Nuswantoro (2022-sekarang). saya tertarik di bidang Pengembangan Web terutama FrontEnd dan Design.
+
+## Proyek Terbaru
+
+- CV(https://cv-ariel-github-io.vercel.app/)
+- [Nama Proyek 2](link)
+
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center" style="width: 640;height: 1650;background-color: beige;">
     <a href="https://open.spotify.com/user/89ekg48dirbxpc28akgm246un">
@@ -47,14 +56,7 @@
 </div>
 
 
-## Tentang Saya
 
-Saya adalah mahasiswa S1 Teknik Informatika dari Universitas Dian Nuswantoro (2022-sekarang). saya tertarik di bidang Pengembangan Web terutama FrontEnd dan Design.
-
-## Proyek Terbaru
-
-- CV(https://cv-ariel-github-io.vercel.app/)
-- [Nama Proyek 2](link)
 
 <!--
 **AriellaRisqyM/AriellaRisqyM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
