@@ -8,7 +8,6 @@ Saya adalah mahasiswa S1 Teknik Informatika dari Universitas Dian Nuswantoro (20
 ## Proyek Terbaru
 
 - CV(https://cv-ariel-github-io.vercel.app/)
-- [Nama Proyek 2](link)
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center" style="width: 640;height: 1650;background-color: beige;">
