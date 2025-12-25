@@ -1,6 +1,8 @@
 # AriellaRisqyM
 ###
+<img src="https://raw.githubusercontent.com/AriellaRisqyM/AriellaRisqyM/output/snake.svg" alt="Snake animation" />
 
+###
 ## Tentang Saya
 
 Saya adalah mahasiswa S1 Teknik Informatika dari Universitas Dian Nuswantoro (2022-sekarang). saya tertarik di bidang Pengembangan Web terutama FrontEnd dan UI/UX.
