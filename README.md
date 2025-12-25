@@ -1,7 +1,7 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-  
+<div class="tenor-gif-embed" data-postid="7095122424209728488" data-share-method="host" data-aspect-ratio="0.763052" data-width="100%"><a href="https://tenor.com/view/patriot-respect-president-gif-7095122424209728488">Patriot Respect GIF</a>from <a href="https://tenor.com/search/patriot-gifs">Patriot GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ###
 # AriellaRisqyM
 ###
