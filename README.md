@@ -3,17 +3,12 @@
 
 ## Tentang Saya
 
-Saya adalah mahasiswa S1 Teknik Informatika dari Universitas Dian Nuswantoro (2022-sekarang). saya tertarik di bidang Pengembangan Web terutama FrontEnd dan Design.
+Saya adalah mahasiswa S1 Teknik Informatika dari Universitas Dian Nuswantoro (2022-sekarang). saya tertarik di bidang Pengembangan Web terutama FrontEnd dan UI/UX.
 
 ## Proyek Terbaru
 
-- CV(https://cv-ariel-github-io.vercel.app/)
-
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center" style="width: 640;height: 1650;background-color: beige;">
-    <a href="https://open.spotify.com/user/89ekg48dirbxpc28akgm246un">
-      <img style="width: 215px;height: 177px;float: left;"  src="https://spotify-recently-played-readme.vercel.app/api?user=89ekg48dirbxpc28akgm246un&count=5&unique=false" alt="Spotify recently played"  />
-    </a>
     <img style="width: 419px;height: 177px;"  src="https://streak-stats.demolab.com?user=AriellaRisqyM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  alt="streak graph"/>
     <img style="width: 317px;height: 140px;"  src="https://github-readme-stats.vercel.app/api?username=AriellaRisqyM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
     <img style="width: 317px;height: 140px;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AriellaRisqyM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
@@ -40,8 +35,6 @@ Saya adalah mahasiswa S1 Teknik Informatika dari Universitas Dian Nuswantoro (20
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
