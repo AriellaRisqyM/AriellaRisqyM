@@ -9,8 +9,15 @@
 ###
 ## Tentang Saya
 
-Saya adalah mahasiswa S1 Teknik Informatika dari Universitas Dian Nuswantoro (2022-sekarang). saya tertarik di bidang Pengembangan Web terutama FrontEnd dan UI/UX.
+Menyelesaikan masalah hardware, merancang antarmuka yang intuitif, dan menembus garis finis-ketiga hal ini adalah inti dari keseharian saya.
 
+Halo, saya Ariel! Saat ini saya sedang menempuh studi S1 Teknik Informatika di Universitas Dian Nuswantoro. Perjalanan saya di dunia teknologi cukup dinamis. Saya menikmati proses kreatif dan empati pengguna dalam UI/UX Design, sekaligus menyukai tantangan logika dalam pengembangan aplikasi web interaktif dengan Laravel. Keingintahuan yang tinggi juga membawa saya mendalami dunia Machine Learning dan Data Mining untuk menggali wawasan dari sekumpulan data. Di lapangan, saya terbiasa turun tangan langsung sebagai Teknisi IT untuk memastikan infrastruktur komputer berjalan optimal.
+
+Dalam alur kerja sehari-hari, saya juga secara aktif mengintegrasikan pemanfaatan AI seperti ChatGPT dan Gemini. Menjadikan AI sebagai asisten virtual atau copilot membantu saya mempercepat riset teknis, melakukan debugging kode, dan melakukan brainstorming ide desain, sehingga saya dapat mengeksekusi proyek dengan jauh lebih efisien, terstruktur, dan inovatif.
+
+Bekerja di depan layar dalam waktu lama menuntut manajemen diri yang baik. Itulah mengapa saya mendedikasikan waktu luang saya untuk angkat beban di gym dan tergabung dalam kultur lari. Aktif mengikuti event lari membantu saya membangun ketahanan mental, melepaskan stres, dan mengisi ulang energi agar bisa selalu produktif dan fokus saat mengeksekusi coding atau mendesain wireframe secara mandiri.
+
+Saya selalu bersemangat untuk terhubung dengan profesional lainnya. Jangan ragu untuk menyapa jika ingin berdiskusi tentang tech, desain, pemanfaatan AI, data, atau bahkan agenda event lari selanjutnya!
 ## Proyek Terbaru
 
 <h3 align="left">🔥   My Stats :</h3>
